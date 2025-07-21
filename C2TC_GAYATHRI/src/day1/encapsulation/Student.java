@@ -13,6 +13,11 @@ public class Student {
 		public void setId() {
 			
 		}
+		public void setName(String name) {
+			this.name = name;
+			
+		}
+
 
 	}
 
