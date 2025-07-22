@@ -1,4 +1,4 @@
-package day1_DataType;
+package day1;
 
 public class DataType {
 
