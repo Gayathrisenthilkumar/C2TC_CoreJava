@@ -3,7 +3,8 @@ package day1;
 class PrimitiveDataType {
 	public static void main(String[] args) {
 		//byte takes 1 byte
-		byte byteMax = 127;public
+		byte byteMax = 127;
+		
 		byte byteMin = -128;
 		
 		System.out.println("Min range of byte is" + byteMin +"\nMax range of byte is "+byteMax);
