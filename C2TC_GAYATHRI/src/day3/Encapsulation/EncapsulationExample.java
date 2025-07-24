@@ -1,7 +1,7 @@
-package day3;
+package day3.Encapsulation;
 
-public class EncapsulationDemo {
-	public static void main(String[] args) {
+public class EncapsulationExample {
+public static void main(String[] args) {
 		
 		//object creation 
 		OopsConceptDemo obj = new OopsConceptDemo();
@@ -11,5 +11,4 @@ public class EncapsulationDemo {
 		System.out.println(obj);
 		
 	}
-
 }

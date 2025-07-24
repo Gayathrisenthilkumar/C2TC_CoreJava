@@ -6,8 +6,7 @@ class PrimitiveDataType {
 		byte byteMax = 127;public
 		byte byteMin = -128;
 		
-		System.out.println("Min range of byte is" +
-				byteMin+"\nMax range of byte is "+byteMax);
+		System.out.println("Min range of byte is" + byteMin +"\nMax range of byte is "+byteMax);
 		
 		//short - 2 bytes
 		short shortMax = 32767;

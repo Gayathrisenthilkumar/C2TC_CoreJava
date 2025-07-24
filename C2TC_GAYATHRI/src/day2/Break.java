@@ -1,5 +1,5 @@
 package day2;
-public class Breaks {
+public class Break {
 	public static void main(String[] args) {
 
 		for (int i = 5; i < 10; i++) {
