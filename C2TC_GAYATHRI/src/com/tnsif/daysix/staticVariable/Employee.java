@@ -1,4 +1,4 @@
-package com.tnif.daysix.staticVariable;
+package com.tnsif.daysix.staticVariable;
 
 public class Employee {
 	// Declare instance variables.

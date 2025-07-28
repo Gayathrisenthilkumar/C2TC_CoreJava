@@ -1,4 +1,4 @@
-package com.tnif.daysix.staticBlockMethod;
+package com.tnsif.daysix.staticBlockMethod;
 
 public class MyClass {
 	private int section ; //non-static or instance variable
