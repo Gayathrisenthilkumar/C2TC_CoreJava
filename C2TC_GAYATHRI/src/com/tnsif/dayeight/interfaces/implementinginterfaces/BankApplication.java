@@ -1,8 +1,5 @@
 package com.tnsif.dayeight.interfaces.implementinginterfaces;
-
 //Main class for Bank application
-package com.tnsif.dayeight.interfaces.implementinginterfaces;
-
 public class BankApplication {
 public static void main(String[] args) {
    // Create a Bank instance
