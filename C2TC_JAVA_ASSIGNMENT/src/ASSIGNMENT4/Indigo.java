@@ -39,3 +39,4 @@ public class Indigo implements Airfare {
         System.out.println(String.format("%.2f", calculateAmount()));
     }
 }
+
